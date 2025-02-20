@@ -2,7 +2,7 @@
 Contributors: hasthemes, htplugins, tarekht, zenaulislam, aslamhasib
 Tags: Instagram, Instagram Feed, WordPress Instagram, WP Instagram, Elementor
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
