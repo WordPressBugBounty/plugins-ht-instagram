@@ -15,7 +15,7 @@ class HTinstagram_Admin_Settings {
         add_action( 'admin_init', array( $this, 'admin_init' ) );
         add_action( 'admin_menu', array( $this, 'admin_menu' ), 220 );
         add_action( 'wsa_form_bottom_htinstagram_shortcodeopt_tabs', array( $this, 'htinstagram_shortcode_opt_table' ) );
-        $this->plugin_recommendations();
+        add_action('init', array( $this, 'plugin_recommendations' ) );
     }
 
     function admin_init() {

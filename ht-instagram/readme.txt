@@ -2,8 +2,8 @@
 Contributors: hasthemes, htplugins, tarekht, zenaulislam, aslamhasib
 Tags: Instagram, Instagram Feed, WordPress Instagram, WP Instagram, Elementor
 Requires at least: 5.0
-Tested up to: 6.7
-Stable tag: 1.2.9
+Tested up to: 6.8
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -77,6 +77,9 @@ Needs assistance to use this plugin?
 Feel free to [Contact us](https://hasthemes.com/contact-us/)
 
 == Changelog ==
+
+= Version: 1.3.0 - Date: 2025-04-21 =
+* Compatibility With WordPress Latest Version
 
 = Version: 1.2.9 - Date: 2024-05-07 =
 * Fixed: Escaping issues have been resolved in multiple areas.

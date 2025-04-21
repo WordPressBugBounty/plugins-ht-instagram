@@ -5,7 +5,7 @@
  * Plugin URI:  https://htplugins.com/
  * Author:      HasThemes
  * Author URI:  https://hasthemes.com/
- * Version:     1.2.9
+ * Version:     1.3.0
  * License:     GPL2
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: ht-instagram
@@ -14,7 +14,7 @@
 
 if( ! defined( 'ABSPATH' ) ) exit(); // Exit if accessed directly
 
-define( 'HTINSTA_VERSION', '1.2.9' );
+define( 'HTINSTA_VERSION', '1.3.0' );
 define( 'HTINSTA_PL_URL', plugins_url( '/', __FILE__ ) );
 define( 'HTINSTA_PL_PATH', plugin_dir_path( __FILE__ ) );
 
